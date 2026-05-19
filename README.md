@@ -1,9 +1,25 @@
-This repository consists of:
-========= Extra ANALYSIS FILES =========
-- projectwerk_intro.py: the code needed for the intro of part 3.
-- projectwerk_analysis1.py: the code needed for "influence of the acceptorconcentration on FRET-effiency'.
-- projectwerk_analysis2.py: the code needed for "consistency with the FRET-model'.
-- projectwerk_analysis3.py: the code needed for "limitations in the reliability of the FRET-model'.
-========= Extra ANALYSIS FILES =========
-- step1_inspection.py: the code needed to inspect every file for its contents. This is used for delta t.
-- -step2_fit_lifetimes.py: the code needed for the fitting and analysis onward until the forster-dependency is plotted. 
+## Repository Contents
+
+This repository consists of the following analysis scripts:
+
+### Part 3 – Project Analysis
+- `projectwerk_intro.py`  
+  Code used for the introduction of Part 3.
+
+- `projectwerk_analysis1.py`  
+  Analysis of the influence of acceptor concentration on FRET efficiency.
+
+- `projectwerk_analysis2.py`  
+  Evaluation of consistency with the FRET model.
+
+- `projectwerk_analysis3.py`  
+  Investigation of limitations in the reliability of the FRET model.
+
+---
+
+### Supporting Analysis Tools
+- `step1_inspection.py`  
+  Script used to inspect all files and extract their contents (used for Δt analysis).
+
+- `step2_fit_lifetimes.py`  
+  Script used for lifetime fitting and subsequent analysis up to the Förster dependency plot.
