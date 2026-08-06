@@ -23,3 +23,7 @@ This repository consists of the following analysis scripts:
 
 - `step2_fit_lifetimes.py`  
   Script used for lifetime fitting and subsequent analysis up to the Förster dependency plot.
+
+---
+
+Only files who matter are "step1_inspection 1.py" and "step2_fit_lifetimes 5.py"
