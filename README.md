@@ -26,4 +26,4 @@ This repository consists of the following analysis scripts:
 
 ---
 
-Only files who matter are "step1_inspection 1.py" and "step2_fit_lifetimes 5.py"
+Only files who matter are "step1_inspection 1.py" and "step2_fit_lifetimes 6.py"
